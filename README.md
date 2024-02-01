@@ -1,14 +1,16 @@
 ## Restauran Web Application is made using React js
 
 # Home Page
-![home](https://github.com/1Rushikesh-Deshmukh/Restaurant-React-Project/assets/104555441/25c17a19-195e-42f3-9c08-7c4e9456b7f6)
+![h-1](https://github.com/1Rushikesh-Deshmukh/Restaurant-React-Project/assets/104555441/9eabc31d-16de-4c7e-b925-9197c7c3611e)
+
 
 
 # Products Page
 
-![Realtime Pizza app](https://github.com/codersgyan/react-shopping-cart/blob/main/Screenshot%202021-06-06%20at%2013.07.18.png)
+![product](https://github.com/1Rushikesh-Deshmukh/Restaurant-React-Project/assets/104555441/c7ff9f95-9894-44e4-9609-ca650ef8383b)
+
 
 # Cart Page
 
-![cart](https://github.com/1Rushikesh-Deshmukh/Restaurant-React-Project/assets/104555441/eb23054d-60d7-4c01-878b-1279405b8672)
 
+![c -1](https://github.com/1Rushikesh-Deshmukh/Restaurant-React-Project/assets/104555441/9467d3c4-ae15-47be-a6ac-913395161860)
